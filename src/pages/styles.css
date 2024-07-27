@@ -1,0 +1,27 @@
+.header-title {
+  margin-top: 150px;
+}
+
+.title-home {
+  color: purple;
+}
+
+.title-about {
+  color: green;
+}
+
+.title-contact {
+  color: red;
+}
+
+.title-login {
+  color: #0084ff;
+}
+
+.title-register {
+  color: #5c4033;
+}
+
+.title-services {
+  color: #ea00ff;
+}
