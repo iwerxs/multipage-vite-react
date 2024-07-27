@@ -1,0 +1,85 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  background-color: rgba(158, 158, 158, 0.801);
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-logo img {
+  height: 40px; /* Adjust based on your logo size */
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0 2rem 0 0;
+  padding: 0;
+  gap: 1rem;
+}
+
+/* .navbar-links {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 1rem;
+} */
+
+/* Ensures the li elements are inline */
+/* .navbar-links li {
+  display: inline; 
+} */
+
+/* .navbar-links a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+} */
+
+/* .navbar-links a:hover {
+  background-color: #ddd;
+  color: black;
+  cursor: pointer;
+} */
+
+
+/* .navbar {
+  width: 100%;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  padding: 14px 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: #222;
+  cursor: pointer;
+} */
